@@ -1,2 +1,2 @@
-# AndroidProjects
-Temel seviyeden başlayıp ileri seviye kadar olan Android Uygulamaların bulunduğu projedir.
+# Android Projects
+It is the project with Android Applications starting from the basic level to the advanced level.
